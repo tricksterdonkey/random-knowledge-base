@@ -66,5 +66,5 @@
 2. Socrates wants to banishes all artist and poets from his state. 
 3. Poetry feeds and waters the passions instead of drying them up. 
 4. Aristotle counter -> Tragedy purges the audience of fear and pity rather than strengthens these emotions 
-5. Soul is immortal. 
+5. Soul is immortal.
 6. Just life is best life.

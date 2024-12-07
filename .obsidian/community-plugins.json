@@ -3,10 +3,7 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "editing-toolbar",
-  "highlightr-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-dictionary-plugin",
-  "better-export-pdf",
-  "obsidian-autocomplete-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin"
 ]
