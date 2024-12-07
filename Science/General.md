@@ -24,7 +24,9 @@
 | Iron              | Anemia                     |
 | Iodine            | Goitre                     |
 
-## <u>Plants</u>
+## <u>Living Organisms</u>
+
+#### <u>Plants</u>
 
 **Photosynthesis** => carbon dioxide + water + sunlight  => glucose + oxygen
 
@@ -39,10 +41,12 @@
 ![[partOfSeed.jpg]]
 
 
-## <u>Human Body</u>
+#### <u>Human Body</u>
 
 ![[typeOfJoints.png]]
 
+#### <u>Cells</u>
+![[animalPlantCell.png]]
 
 ## <u>Magnets</u>
 

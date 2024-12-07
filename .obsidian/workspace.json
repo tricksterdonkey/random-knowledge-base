@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/General.md",
+                "file": "Philosophy/Self-Reliance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "Self-Reliance"
             }
           }
         ]
@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of Data Aalytics"
             }
+          },
+          {
+            "id": "e050181e908f1c41",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +172,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5121572c341c3ea1",
   "lastOpenFiles": [
-    "README.md",
+    "Philosophy/Plato, Socrates and Dialogues.md",
+    "Computer/Data Aalytics.md",
+    "Computer/Competitive Coding.md",
     "Science/General.md",
+    "Resources/animalPlantCell.png",
+    "README.md",
     "Excalidraw/Drawing 2024-12-06 20.57.50.excalidraw.md",
     "Resources/typeOfJoints.png",
     "Resources/partOfSeed.jpg",
@@ -187,12 +200,9 @@
     "Social Sciences/General.md",
     "Maths",
     "Psychology/48 Law Of Power.md",
-    "Computer/Data Aalytics.md",
-    "Computer/Competitive Coding.md",
     "Philosophy/The Republic.md",
     "Philosophy/The Analects of Confucius.md",
     "Philosophy/Self-Reliance.md",
-    "Philosophy/Plato, Socrates and Dialogues.md",
     "Psychology/How To Win Friends And Influence People.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-12-01 23.28.33.excalidraw.md",
