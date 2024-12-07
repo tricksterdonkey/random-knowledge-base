@@ -46,8 +46,11 @@
 ![[typeOfJoints.png]]
 
 #### <u>Cells</u>
-![[animalPlantCell.png]]
+![[animalPlantCell.jpg]]
 
+
+**Cytology** : study of cell
+**histology** : study of tissue
 ## <u>Magnets</u>
 
 #### Magnetic Lines 

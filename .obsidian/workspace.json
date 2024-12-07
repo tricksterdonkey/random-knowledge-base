@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Self-Reliance.md",
+                "file": "Science/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-Reliance"
+              "title": "General"
             }
           }
         ]
@@ -177,6 +177,8 @@
   },
   "active": "5121572c341c3ea1",
   "lastOpenFiles": [
+    "Resources/animalPlantCell.jpg",
+    "Philosophy/Self-Reliance.md",
     "Philosophy/Plato, Socrates and Dialogues.md",
     "Computer/Data Aalytics.md",
     "Computer/Competitive Coding.md",
@@ -202,7 +204,6 @@
     "Psychology/48 Law Of Power.md",
     "Philosophy/The Republic.md",
     "Philosophy/The Analects of Confucius.md",
-    "Philosophy/Self-Reliance.md",
     "Psychology/How To Win Friends And Influence People.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-12-01 23.28.33.excalidraw.md",
